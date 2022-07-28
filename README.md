@@ -1,0 +1,5 @@
+- # Sobre mim
+- 👋 Ola meu nome é @oluaP20
+- :+1 Meu email de contato é david.paulo@escola.pr.gov.br
+- 👀 Eu estou interessado m aprender a programar novas linguagens
+- estou aprendendo a programar recentemente lnguagens de JavaScript e Scratch
